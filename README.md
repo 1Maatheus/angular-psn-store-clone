@@ -1,8 +1,8 @@
 # PSN Clone 🎮
 
-<h3>
+<p>
   Clone da página de jogos da Playstation, projeto realizado com Angular e aplicado os conceitos básicos para a finalização da página.
-</h3>
+</p>
 
 ## Preview:
 
