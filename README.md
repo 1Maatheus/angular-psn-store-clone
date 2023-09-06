@@ -6,4 +6,4 @@
 
 ## Preview:
 
-<img src="../psn-clone/src/assets/preview.png">
+<img src="./src/assets/preview.png">
